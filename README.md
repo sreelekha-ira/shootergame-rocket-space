@@ -9,7 +9,7 @@ This project was built as a learning-focused yet portfolio-ready 2D game.
 
 ## 🎮 Gameplay Preview
 
-![Gameplay Preview](assets/gameplay.gif)
+![Gameplay Preview](shootergif.gif)
 
 ---
 
